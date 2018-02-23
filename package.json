@@ -1,0 +1,16 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "marketplace for buying tools",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PL",
+  "license": "ISC"
+}
